@@ -1,0 +1,6 @@
+{
+  "apiURL": "http://127.0.0.1/api",
+  "socketURL": "http://127.0.0.1",
+  "version": "1.5.2109a",
+  "disabledFeatures": ["Registration", "Shifts"]
+}
